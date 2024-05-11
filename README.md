@@ -14,4 +14,4 @@ Notes:
       [simSer, Thpt, simSer_, Thpt_]= script_dl_acma_rx_div_m_qam_fading_ser_M1M2(20,20,1e+4,16,16,0.9,0.1,1,1,100)
    - Add % in the above file to stop it from disrupting code runs (you will not need too many scatterplots popping out) for Figures 3-6
 
-  - If you fiind this work (paper and codes) useful, please acknowledge by citing the work. Thank you. Indu L. Shakya
+- If you fiind this work (paper and codes) useful, please acknowledge by citing the work. Thank you. Indu L. Shakya
